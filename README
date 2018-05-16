@@ -1,0 +1,2 @@
+Append /usr/local/cuda/bin to PATH
+Append /usr/local/cuda/lib64 to LD_LIBRARY_PATH

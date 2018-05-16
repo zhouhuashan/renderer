@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+    </qresource>
+    <qresource prefix="/i18n">
+        <file>renderer.ru_RU.qm</file>
+    </qresource>
+</RCC>

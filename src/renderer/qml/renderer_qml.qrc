@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="qml/">
+        <file>components/CenteredDialog.qml</file>
+        <file>qmldir</file>
+        <file>ui.qml</file>
+    </qresource>
+</RCC>
